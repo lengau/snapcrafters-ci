@@ -19,7 +19,6 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           test-script: |
             echo "Your test script here."
-
 ```
 
 ## API
